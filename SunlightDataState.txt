@@ -1,0 +1,63 @@
+"Notes"	"State"	"State Code"	Avg Daily Sunlight (KJ/m^2)
+	"Alabama"	"01"	16957.340
+	"Arizona"	"04"	19625.542
+	"Arkansas"	"05"	16498.635
+	"California"	"06"	19289.406
+	"Colorado"	"08"	17388.270
+	"Connecticut"	"09"	14895.932
+	"Delaware"	"10"	15770.282
+	"District of Columbia"	"11"	15265.357
+	"Florida"	"12"	18581.939
+	"Georgia"	"13"	17291.056
+	"Idaho"	"16"	15958.151
+	"Illinois"	"17"	14995.542
+	"Indiana"	"18"	14847.930
+	"Iowa"	"19"	14689.630
+	"Kansas"	"20"	16609.750
+	"Kentucky"	"21"	15234.660
+	"Louisiana"	"22"	17580.926
+	"Maine"	"23"	13567.918
+	"Maryland"	"24"	15413.948
+	"Massachusetts"	"25"	14741.420
+	"Michigan"	"26"	14292.927
+	"Minnesota"	"27"	14044.528
+	"Mississippi"	"28"	17042.159
+	"Missouri"	"29"	15613.423
+	"Montana"	"30"	14779.897
+	"Nebraska"	"31"	15778.191
+	"Nevada"	"32"	18032.803
+	"New Hampshire"	"33"	13974.077
+	"New Jersey"	"34"	15253.386
+	"New Mexico"	"35"	19174.820
+	"New York"	"36"	13933.789
+	"North Carolina"	"37"	16472.438
+	"North Dakota"	"38"	14514.487
+	"Ohio"	"39"	14558.393
+	"Oklahoma"	"40"	17071.633
+	"Oregon"	"41"	16144.079
+	"Pennsylvania"	"42"	14142.158
+	"Rhode Island"	"44"	15045.094
+	"South Carolina"	"45"	17362.639
+	"South Dakota"	"46"	15091.678
+	"Tennessee"	"47"	15808.975
+	"Texas"	"48"	18364.992
+	"Utah"	"49"	17510.809
+	"Vermont"	"50"	13472.985
+	"Virginia"	"51"	15828.861
+	"Washington"	"53"	14645.631
+	"West Virginia"	"54"	14634.666
+	"Wisconsin"	"55"	14182.247
+	"Wyoming"	"56"	16276.301
+"---"
+"Dataset: North America Land Data Assimilation System (NLDAS) Daily Sunlight (KJ/m^2) (1979-2011)"
+"Query Parameters:"
+"Group By: State"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Insolation.html for more information."
+"---"
+"Query Date: Apr 24, 2024 11:33:45 PM"
+"---"
+"Suggested Citation: North America Land Data Assimilation System (NLDAS) Daily Sunlight (insolation) for years 1979-2011 on CDC"
+"WONDER Online Database, released 2013. Accessed at http://wonder.cdc.gov/NASA-INSOLAR.html on Apr 24, 2024 11:33:45 PM"
